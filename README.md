@@ -20,16 +20,13 @@
 
 ## ⚡ whoami
 
-```typescript
-const krishnarajsinh78: Developer = {
-  name:      "Krishnarajsinh Vaghela",
-  role:      "Product-minded developer",
-  location:  "Building from the open web",
-  currently: "building in public",
-  stack:     ["JavaScript"],
-  mantra:    "Make useful things, then make them delightful 🚀",
+const krishnarajsinh78 = {
+  name: "Krishnarajsinh Vaghela",
+  role: "BTech CSE (AI-ML) Student",
+  focus: ["Web Development", "Python", "Linux"],
+  currently: "Building projects and learning",
+  motto: "Always coding, learning, and shipping 🚀"
 };
-```
 
 > BTech CSE (AL-ML) student. Pursuing Degree at ITM (sls) University.
 &quot;Enthusiastic&quot; &amp; &quot;Reliable&quot;
@@ -42,7 +39,11 @@ const krishnarajsinh78: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript%2Ctypescript%2Creact%2Cnodejs%2Cpython%2Cgit%2Cgithub&perline=8&theme=dark" alt="Tech stack" />
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br/><br/>
 
@@ -53,7 +54,37 @@ const krishnarajsinh78: Developer = {
 </div>
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=krishnarajsinh78&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+---
 
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+A personal portfolio website showcasing my skills, projects, and learning journey.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/krishnarajsinh78/My-Portfolio)
+
+### 🎮 Color Memory Game
+An interactive game designed to test memory and improve concentration through color-based challenges.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/krishnarajsinh78/GameArena)
+
+---
+Currently Learning :-
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python Programming
+- 🌐 Web Development
+- 💻 JavaScript Programming
+- 🐧 Linux & Networking
+- 🔧 Git and GitHub
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
